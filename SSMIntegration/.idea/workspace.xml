@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e848ae26-e4d0-42a2-9830-a37a9783030f" name="Default Changelist" comment="" />
+    <list default="true" id="e848ae26-e4d0-42a2-9830-a37a9783030f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -42,9 +55,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ServiceViewManager">
@@ -69,21 +83,62 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620982605415</updated>
-      <workItem from="1620982606835" duration="108000" />
+      <workItem from="1620982606835" duration="2748000" />
+      <workItem from="1620985381429" duration="840000" />
     </task>
+    <task id="LOCAL-00001" summary="SSMIntegration">
+      <created>1620982748285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620982748285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SSMIntegration" />
+    <option name="LAST_COMMIT_MESSAGE" value="SSMIntegration" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="526" y="113" key="FileChooserDialogImpl" timestamp="1620982660153">
+    <state x="361" y="79" key="#Project_Structure" timestamp="1620983643391">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="526" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1620982660153" />
-    <state x="315" y="44" key="SettingsEditor" timestamp="1620982715392">
+    <state x="361" y="79" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1620983643391" />
+    <state x="574" y="111" key="#com.intellij.ide.util.MemberChooser" timestamp="1620984945629">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="315" y="44" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1620982715392" />
+    <state x="574" y="111" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1620984945629" />
+    <state x="320" y="333" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1620983637545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="320" y="333" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.834@0.0.1536.834" timestamp="1620983637545" />
+    <state x="557" y="333" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1620983601809">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="557" y="333" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.834@0.0.1536.834" timestamp="1620983601809" />
+    <state x="152" y="14" key="CommitChangelistDialog2" timestamp="1620982746742">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="152" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1620982746742" />
+    <state x="526" y="113" key="FileChooserDialogImpl" timestamp="1620983634850">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="526" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1620983634850" />
+    <state x="300" y="0" key="SettingsEditor" timestamp="1620983761802">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="300" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1620983761802" />
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2" timestamp="1620982822467">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620982822467" />
+    <state x="373" y="220" key="git4idea.merge.GitPullDialog" timestamp="1620982815299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="373" y="220" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1620982815299" />
   </component>
 </project>
